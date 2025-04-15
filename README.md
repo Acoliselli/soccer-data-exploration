@@ -65,8 +65,7 @@ Cada pergunta é resolvida em um arquivo `.sql` separado, localizado na pasta `/
 ## 👨‍💻 **Autor**
 
 Desenvolvido por **Augusto Coliselli**  
-👉 [LinkedIn](https://www.linkedin.com/in/acolisi/)  
-👉 [Portfólio](#) *(link opcional para adicionar depois)*
+👉 [LinkedIn](https://www.linkedin.com/in/augusto-coliselli/)  
 
 ---
 
